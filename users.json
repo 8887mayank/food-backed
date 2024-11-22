@@ -1,0 +1,26 @@
+[
+  {
+    "username": "test",
+    "email": "test@mail.com",
+    "password": "test",
+    "confirm_password": "test"
+  },
+  {
+    "username": "mayank",
+    "email": "mayank@mail.com",
+    "password": "123",
+    "confirm_password": "123"
+  },
+  {
+    "username": "dipesh ",
+    "email": "dipesh@gmail.com",
+    "password": "123",
+    "confirm_password": "123"
+  },
+  {
+    "username": "test@mail.com",
+    "email": "test@mail.com",
+    "password": "test",
+    "confirm_password": "test"
+  }
+]
